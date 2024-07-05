@@ -32,19 +32,19 @@ Welcome to Vikas Patel's GitHub repository! This README file provides an overvie
 ## Projects
 
 ### Twitter Clone
-- **Description:** Developed the front-end of a Twitter clone using HTML5, CSS3, JavaScript, and React.js.
+- **Description:** Developed the front-end of a Twitter clone using ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E), and ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB).
 - **Current Work:** Overseeing modifications and enhancements to the back-end for improved integration with the front-end.
 
 ### Portfolio Website
-- **Description:** Created a comprehensive portfolio website utilizing HTML, CSS, and JavaScript. The website includes sections for Home, About Me, Qualification, Projects, Contact, Experience, and Skills.
+- **Description:** Created a comprehensive portfolio website utilizing ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), and ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E). The website includes sections for Home, About Me, Qualification, Projects, Contact, Experience, and Skills.
 - **Link:** [Portfolio](https://vscoder-portfolio.netlify.app/)
 
 ### To-Do List
-- **Description:** Built a to-do list application using React.js. The list prioritizes tasks by importance.
+- **Description:** Built a to-do list application using ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB). The list prioritizes tasks by importance.
 - **Link:** [To-Do List](https://vikaspatel7780.github.io/To-do-list/)
 
 ### Tic-Tac-Toe
-- **Description:** Developed a tic-tac-toe game using HTML, CSS, and JavaScript. It is a classic two-player game where players take turns marking spaces in a 3x3 grid.
+- **Description:** Developed a tic-tac-toe game using ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white), and ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E). It is a classic two-player game where players take turns marking spaces in a 3x3 grid.
 - **Link:** [Tic-Tac-Toe](https://vikaspatel7780.github.io/Tic-tac-toe/)
 
 ## Technical Skills
