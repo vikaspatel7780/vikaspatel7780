@@ -70,7 +70,6 @@ Welcome to Vikas Patel's GitHub repository! This README file provides an overvie
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
 ## Achievements
 
 - **Codechef:** Highest rating of 1632 and rated 3*. Achieved a global rank of 22 in Codechef's January Long 2022 among 13k participants.
@@ -79,16 +78,28 @@ Welcome to Vikas Patel's GitHub repository! This README file provides an overvie
 
 ## Coding Profiles
 
-- **GeeksforGeeks:** [350+ Problems Solved](https://auth.geeksforgeeks.org/user/vikaspatel7780)
-- **Leetcode:** [350+ Problems Solved, Highest Rating 1691](https://leetcode.com/vscoder123/)
-- **HackerRank:** [100+ Problems Solved, 5* in Problem Solving](https://www.hackerrank.com/dashboard)
-- **Codechef:** [150+ Problems Solved, Highest Rating 1632, 3*](https://www.codechef.com/users/vikaspaterl7780)
-- **Codeforces:** [100+ Problems Solved, Highest Rating 910](https://codeforces.com/profile/vscoder123)
+I am an enthusiastic and passionate coder with experience across multiple competitive coding platforms. Here are my profiles:
+
+- **GeeksforGeeks:** [![GeeksforGeeks](https://img.icons8.com/color/48/000000/geeksforgeeks.png)](https://auth.geeksforgeeks.org/user/vikaspatel7780)
+  - Solved over 350 problems, focusing on data structures and algorithms to build a strong foundation in computer science.
+
+- **Leetcode:** [![Leetcode](https://img.icons8.com/color/48/000000/leetcode.png)](https://leetcode.com/vscoder123/)
+  - Completed 350+ problems with a highest rating of 1691. Leetcode has helped me enhance my problem-solving skills and algorithmic thinking.
+
+- **HackerRank:** [![HackerRank](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-hacker-rank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png)](https://www.hackerrank.com/dashboard)
+  - Achieved a 5* rating in Problem Solving with over 100 problems solved. HackerRank is where I practice a variety of challenges to refine my coding skills.
+
+- **Codechef:** [![Codechef](https://img.icons8.com/color/48/000000/codechef.png)](https://www.codechef.com/users/vikaspaterl7780)
+  - Solved 150+ problems and reached a highest rating of 1632, earning a 3* rank. Codechef has been instrumental in improving my competitive programming skills.
+
+- **Codeforces:** [![Codeforces](https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png)](https://codeforces.com/profile/vscoder123)
+  - Solved over 100 problems with a highest rating of 910. Codeforces challenges have helped me to think critically and optimize my solutions.
+
 
 ## Hobbies
 
-- Playing Cricket
-- Reading Books
+- 🏏 Playing Cricket
+- 📚 Reading Books
 
 ## Contact
 
